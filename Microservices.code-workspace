@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": "logger-service"
+    },
+    {
+      "path": "mail-service"
+    },
+    {
+      "path": "listener-service"
+    },
+    {
+      "path": "broker-service"
+    },
+    {
+      "path": "front-end-service"
+    },
+    {
+      "path": "aunthentication-service"
+    },
+    {
+      "path": "docker"
+    }
+  ],
+  "settings": {}
+}
